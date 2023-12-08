@@ -23,11 +23,11 @@
     color: #fff;
     text-decoration: none;
     transition: .5s;
-    -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-  text-decoration: none;
-  overflow: hidden;
-  cursor: pointer;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
   }
   
   .item1 a:hover {
@@ -40,7 +40,7 @@
 
   .item2 {
     padding-right:10px ;
-    margin-left: 660px;
+    margin-left: 1200px;
   }
   
   .item2 a {
